@@ -12,7 +12,7 @@
 
 <img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="200" alt="Coding GIF"/>
 
-I am a Software Engineer skilled in HTML, JavaScript, Node.JS, Express.JS, PostgreSQL, MongoDB, Linux Operating System, Git and more. <br/>
+I am a Back-End Developer skilled in HTML, JavaScript, Node.JS, Express.JS, PostgreSQL, MongoDB, Linux Operating System, Git and more. <br/>
 I have studied at Yat Foundation, Almadrasa platform and Elzero Web Schoole, built scalable applications, and continuously strive to improve my skills and contribute to impactful teams.
 
 
